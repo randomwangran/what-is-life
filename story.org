@@ -6,3 +6,5 @@ https://youtu.be/xP5-iIeKXE8?t=2
 ref: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 very cool: game of life: https://www.youtube.com/watch?v=8unMqSp0bFY
+
+intro: https://youtu.be/R9Plq-D1gEk?t=13
