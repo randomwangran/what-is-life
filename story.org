@@ -4,3 +4,5 @@ https://youtu.be/xP5-iIeKXE8?t=2
 我想慢慢去解读每一帧背后的故事。
 
 ref: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+very cool: game of life: https://www.youtube.com/watch?v=8unMqSp0bFY
